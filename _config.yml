@@ -7,13 +7,13 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "en-US"
-title                    : "Nikhil Cherian Kurian"
+title                    : "Varsha S"
 title_separator          : "-"
-name                     : &name "Nikhil Cherian Kurian"
+name                     : &name "Varsha S"
 description              : &description "personal description"
-url                      : "https://nikhilkurian.github.io" # the base hostname & protocol for your site e.g. 
+url                      : "https://varshasatish.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nikhilkurian/nikhilkurian.github.io"
+repository               : "varshasatish/varshasatish.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nikhil Kurian"
-  avatar           : "bio-photo-1.png"
-  bio              : "Applied Researcher-II, FRIPL"
+  name             : "Varsha S"
+  avatar           : "bio_photo.jpg"
+  bio              : "Deep Learning | Medical Image Analysis"
   location         : "Bengaluru, India"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5oEir04AAAAJ&hl=en"
-  email            : "nikhilcherian30@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Nikhil_Kurian2"
+  googlescholar    : "https://scholar.google.com/citations?user=googlescholar-id&user=qJVeaUUAAAAJ"
+  email            : "varshasatish14@gmail.com"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "/nikhilkurian"
+  github           : "/varshasatish"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "nikhil-cherian-kurian-7bba285b"
+  linkedin         : "varsha-satish"
   orcid            : #"https://orcid.org/0000-0003-1713-0736"
   pinterest        :
   soundcloud       :
