@@ -3,11 +3,10 @@ title: "Robust Semi-Supervised Learning for
 Histopathology Images through Self-Supervision
 Guided Out-of-Distribution Scoring"
 collection: publications
-permalink: /publication/her2_2019
-excerpt: 'This paper provides a proof-of-concept for detection of genetic mutation in breast cancer patients from H&E images instead of using costly IHC images.'
-date: 2019-12-12
-venue: 'Journal of Pathology Informatics'
-image: 'her2.png'
+excerpt: 'This work proposes a novel pipeline
+for addressing open-set supervised learning challenges in digital
+histology images.'
+image: 'ssl-first stage complete.jpg'
 width: '800'
 ---
 Semi-supervised learning (semi-SL) is a promising
