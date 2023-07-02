@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: 
+title: " My CV "
 permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
 ---
-{% pdf "https://github.com/VarshaSatish/resume/blob/main/Varsha_CV.pdf" no_link %}
 
+<embed src="https://github.com/VarshaSatish/resume/blob/main/Varsha_CV.pdf" width="900px" height="1200px" />
