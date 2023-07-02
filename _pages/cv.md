@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " My CV "
+title: "Curriculum Vitae"
 permalink: /resume/
 author_profile: true
 redirect_from:
