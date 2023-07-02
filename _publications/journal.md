@@ -6,6 +6,7 @@ collection: publications
 excerpt: 'This work proposes a novel pipeline
 for addressing open-set supervised learning challenges in digital
 histology images.'
+date : 2023
 image: 'ssl-first stage complete.jpg'
 venue: 'IEEE/ACM Transactions on Computational Biology and Bioinformatics - under review'
 width: '800'
