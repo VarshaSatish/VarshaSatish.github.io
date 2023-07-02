@@ -7,6 +7,7 @@ excerpt: 'This work proposes a novel pipeline
 for addressing open-set supervised learning challenges in digital
 histology images.'
 image: 'ssl-first stage complete.jpg'
+venue: 'IEEE/ACM Transactions on Computational Biology and Bioinformatics - under review'
 width: '800'
 ---
 Semi-supervised learning (semi-SL) is a promising
