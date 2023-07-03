@@ -1,5 +1,5 @@
 title: "Project Assistant, IISc"
-excerpt: "Some of the common resources we use in computational pathology"
+#excerpt: "Some of the common resources we use in computational pathology"
 collection: experience
 permalink: /experience
 ---
