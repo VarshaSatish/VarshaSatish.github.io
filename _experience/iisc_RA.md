@@ -1,6 +1,7 @@
 title: "Project Assistant, IISc"
 excerpt: "Some of the common resources we use in computational pathology"
 collection: experience
+permalink: /experience
 ---
 
 * Studied the effect of head movement trajectory information of subjects to objective quality assessment problem in the VR videos.
