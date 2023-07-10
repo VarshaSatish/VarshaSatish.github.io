@@ -27,7 +27,7 @@ redirect_from:
 <h3>Work Experience</h3>
 
 <ul>
-<li><strong> nference, Bangalore, India</strong></li>
+<li><h2><strong> nference, Bangalore, India</strong></h2></li>
 <ul>
 	<li>Data Scientist <em>(Jan&rsquo;23 &ndash; Till date)</em></li>
 	<li>Worked primarily on developing deep learning based solutions to solve challenges in the field of medical imaging, specifically histopathology.</li>
@@ -38,7 +38,7 @@ vessel, with mean average precision value of 0.7, as a part of kidney diagnosis 
 </li>
 <p></p>
 	
-<li><strong>Amazon, Alexa NLU, Bangalore, India</strong></li>
+<li><h2><strong>Amazon, Alexa NLU, Bangalore, India</strong></h2></li>
 <ul>
 	<li>Applied Scientist <em>(July&rsquo;22 &ndash; Jan&rsquo;23)</em></li>
 	<li>Worked on adopting a multi‑lingual encoder architecture for meeting latency constraints and minimising cost of NLU models.</li>
@@ -49,7 +49,7 @@ accepts and false rejects.</li>
 </li>
 <p></p>
 
-<li><strong>Visual Information Processing Lab, Indian Institute of Science (IISc) Bangalore</strong> </li>
+<li><h2><strong>Visual Information Processing Lab, Indian Institute of Science (IISc) Bangalore</strong></h2> </li>
 <ul>
 	<li>Research Assistant <em>(July&rsquo;18 &ndash; May&rsquo;19)</em></li>
 	<li>Studied the effect of head movement trajectory information of subjects to objective quality assessment problem in the VR videos.</li>
@@ -59,7 +59,7 @@ i.e., prediction of head motion trajectory..</li>
 </li>
 <p></p>
 
-<li><strong>Honeywell Aerospace, Bangalore</strong></li>
+<li><h2><strong>Honeywell Aerospace, Bangalore</strong></h2></li>
 <ul>
 	<li>Intern <em>(Jan&rsquo;18 &ndash; July&rsquo;18)</em></li>
 	<li>Developed proof of concept of Trustzone creation and API development for ARM Cortex‑A processors..</li>
@@ -67,7 +67,7 @@ i.e., prediction of head motion trajectory..</li>
 </li>
 <p></p>
 
-<li><strong>Signal Processing, Interpretation and REpresentation (SPIRE) Lab, IISc Bangalore</strong></li>
+<li><h2><strong>Signal Processing, Interpretation and REpresentation (SPIRE) Lab, IISc Bangalore</strong></h2></li>
 <ul>
 	<li>Research Intern <em>(June&rsquo;16 &ndash; Aug&rsquo;16)</em></li>
 	<li>Implemented EM Algorithm in C to optimize an analytically intractable likelihood function ‑ with an aim of reducing latency.</li>
