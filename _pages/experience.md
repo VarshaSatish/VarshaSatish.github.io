@@ -10,8 +10,7 @@ redirect_from:
 
 
 ## Experience
-
-<p>&nbsp;</p>
+<p></p>
 
 <h3>Notable Achievements and Awards</h3>
 
@@ -22,7 +21,6 @@ redirect_from:
 </ul>
 
 <p>&nbsp;</p>
-
 
 <h3>Work Experience</h3>
 
