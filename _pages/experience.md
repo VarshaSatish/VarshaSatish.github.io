@@ -1,10 +1,13 @@
 --
 title: "Varsha S - Experience"
-layout: gridlay
 excerpt: "Varsha S : Experience"
-sitemap: false
-permalink: /experience
+author_profile: true
+permalink: /
+redirect_from:
+	-/experience/
+ 	-/experience.html
 ---
+
 
 ## Experience
 
