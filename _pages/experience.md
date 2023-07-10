@@ -36,7 +36,8 @@ redirect_from:
 vessel, with mean average precision value of 0.7, as a part of kidney diagnosis pipeline.</li>
 </ul>
 </li>
-
+<p></p>
+	
 <li><strong>Amazon, Alexa NLU, Bangalore, India</strong>
 <ul>
 	<li>Applied Scientist <em>(July&rsquo;22 &ndash; Jan&rsquo;23)</em></li>
@@ -46,6 +47,7 @@ vessel, with mean average precision value of 0.7, as a part of kidney diagnosis 
 accepts and false rejects.</li>
 </ul>
 </li>
+<p></p>
 
 <li><strong>Visual Information Processing Lab, Indian Institute of Science (IISc) Bangalore</strong>
 <ul>
@@ -55,13 +57,15 @@ accepts and false rejects.</li>
 i.e., prediction of head motion trajectory..</li>
 </ul>
 </li>
- 
+<p></p>
+
 <li><strong>Honeywell Aerospace, Bangalore</strong>
 <ul>
 	<li>Intern <em>(Jan&rsquo;18 &ndash; July&rsquo;18)</em></li>
 	<li>Developed proof of concept of Trustzone creation and API development for ARM Cortex‑A processors..</li>
 </ul>
 </li>
+<p></p>
 
 <li><strong>Signal Processing, Interpretation and REpresentation (SPIRE) Lab, IISc Bangalore</strong>
 <ul>
