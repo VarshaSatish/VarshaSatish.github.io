@@ -1,6 +1,6 @@
 ---
 title: "Data Scientist, Nference"
-excerpt: "Some of the common resources we use in computational pathology"
+excerpt: "Deep Learning for digital histopathology"
 collection: experience
 permalink: /experience
 ---
