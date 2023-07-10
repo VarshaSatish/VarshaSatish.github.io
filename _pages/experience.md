@@ -19,8 +19,7 @@ redirect_from:
 <li><strong> Top 4 Finalists</strong> in ISBI KNIGHT Challenge 2022</li>
 <li><strong> Academic Excellence Award <strong> for ranking first in school, 10th ICSE Board exam 2012.</li>
 </ul>
-
-<p>&nbsp;</p>
+<p></p>
 
 <h3>Work Experience</h3>
 
