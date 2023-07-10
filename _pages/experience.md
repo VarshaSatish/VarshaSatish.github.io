@@ -17,7 +17,7 @@ redirect_from:
 <ul>
 <li><strong>Best MTech Thesis </strong> award by the Department of Electrical Engineering, IIT Bombay 2022.</li>
 <li><strong> Top 4 Finalists</strong> in ISBI KNIGHT Challenge 2022</li>
-<li><strong> Academic Excellence Award </strong>strong> for ranking first in school, 10th ICSE Board exam 2012.</li>
+<li><strong> Academic Excellence Award </strong> for ranking first in school, 10th ICSE Board exam 2012.</li>
 </ul>
 <p></p>
 
