@@ -1,6 +1,6 @@
 ---
 title: "Intern, Honeywell Aerospace"
-#excerpt: "Some of the common resources we use in computational pathology"
+excerpt: "Trustzone creation"
 collection: experience
 permalink: /experience
 ---
