@@ -2,7 +2,7 @@
 title: "Varsha S - Experience"
 excerpt: "Varsha S : Experience"
 author_profile: true
-permalink: /
+permalink: /experience/
 redirect_from:
 	-/experience/
  	-/experience.html
