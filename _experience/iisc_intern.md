@@ -1,7 +1,7 @@
 
 ---
 title: "Research Intern, (SPIRE) Lab, IISc Bangalore, India"
-#excerpt: "Some of the common resources we use in computational pathology"
+#excerpt: "Implementation of Distributed EM Algorithm"
 collection: experience
 permalink: /experience
 ---
