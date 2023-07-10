@@ -1,5 +1,5 @@
 title: "Project Assistant, IISc"
-#excerpt: "Some of the common resources we use in computational pathology"
+#excerpt: "Prediction of head motion trajectory"
 collection: experience
 permalink: /experience
 ---
