@@ -13,4 +13,4 @@ redirect_from:
 <div style='text-align: justify;'>I was exposed to the field of research at <a href="https://ece.iisc.ac.in/" style="text-decoration: none;">Department of Electrical Communication Engineering</a> guided by <a ref="https://ece.iisc.ac.in/~rajivs/#/" style="text-decoration: none;">Prof. Rajiv Soundararajan</a>. After my Master's, I had a brief stint at Amazon in the Alexa NLU Department as an Applied Scientist where I worked on adopting a multi‑lingual encoder architecture for meeting latency constraints and minimising cost of NLU models. 
 
 <p>  </p>
-<br>I maintain a list of my publications under the Publications tab and my full Resume is attached the CV Tab.
+<br>I maintain a list of my publications under the Publications tab and my full Resume is attached in the CV Tab.
