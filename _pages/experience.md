@@ -9,66 +9,20 @@ redirect_from:
 ---
 
 
-<!DOCTYPE html>
-    <html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Experience</title>
-        <style>
-/* From extension vscode.github */
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
-
-.vscode-dark img[src$=\#gh-light-mode-only],
-.vscode-light img[src$=\#gh-dark-mode-only] {
-	display: none;
-}
-
-</style>
-        
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
-<style>
-            body {
-                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
-                font-size: 14px;
-                line-height: 1.6;
-            }
-        </style>
-        <style>
-.task-list-item {
-    list-style-type: none;
-}
-
-.task-list-item-checkbox {
-    margin-left: -20px;
-    vertical-align: middle;
-    pointer-events: none;
-}
-</style>
-        
-    </head>
-    <body class="vscode-body vscode-light">
-        <h2 id="--title-varsha-s---experienceexcerpt-varsha-s--experienceauthor_profile-truepermalink-experienceredirect_from-experience-experiencehtml">--
-title: &quot;Varsha S - Experience&quot;
-excerpt: &quot;Varsha S : Experience&quot;
-author_profile: true
-permalink: /experience/
-redirect_from:
--/experience/
--/experience.html</h2>
-<h2 id="experience">Experience</h2>
+## Experience
 <p></p>
+
 <h3>Notable Achievements and Awards</h3>
+
 <ul>
 <li><strong>Best MTech Thesis </strong> award by the Department of Electrical Engineering, IIT Bombay 2022.</li>
 <li><strong> Top 4 Finalists</strong> in ISBI KNIGHT Challenge 2022</li>
 <li><strong> Academic Excellence Award <strong> for ranking first in school, 10th ICSE Board exam 2012.</li>
 </ul>
 <p></p>
+
 <h3>Work Experience</h3>
+
 <ul>
 <li><h4><strong> nference, Bangalore, India</strong></h4></li>
 <ul>
@@ -80,6 +34,7 @@ vessel, with mean average precision value of 0.7, as a part of kidney diagnosis 
 </ul>
 </li>
 <p></p>
+	
 <li><h4><strong>Amazon, Alexa NLU, Bangalore, India</strong></h4></li>
 <ul>
 	<li>Applied Scientist <em>(July&rsquo;22 &ndash; Jan&rsquo;23)</em></li>
@@ -90,6 +45,7 @@ accepts and false rejects.</li>
 </ul>
 </li>
 <p></p>
+
 <li><h4><strong>Visual Information Processing Lab, Indian Institute of Science (IISc) Bangalore</strong></h4> </li>
 <ul>
 	<li>Research Assistant <em>(July&rsquo;18 &ndash; May&rsquo;19)</em></li>
@@ -99,6 +55,7 @@ i.e., prediction of head motion trajectory..</li>
 </ul>
 </li>
 <p></p>
+
 <li><h4><strong>Honeywell Aerospace, Bangalore</strong></h4></li>
 <ul>
 	<li>Intern <em>(Jan&rsquo;18 &ndash; July&rsquo;18)</em></li>
@@ -106,6 +63,7 @@ i.e., prediction of head motion trajectory..</li>
 </ul>
 </li>
 <p></p>
+
 <li><h4><strong>Signal Processing, Interpretation and REpresentation (SPIRE) Lab, IISc Bangalore</strong></h4></li>
 <ul>
 	<li>Research Intern <em>(June&rsquo;16 &ndash; Aug&rsquo;16)</em></li>
@@ -114,8 +72,3 @@ i.e., prediction of head motion trajectory..</li>
 </ul>
 </li>
 </ul>
-
-        
-        
-    </body>
-    </html>
