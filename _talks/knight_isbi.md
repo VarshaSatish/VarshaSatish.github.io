@@ -9,7 +9,8 @@ Conference proceedings on our paper: "Multi-modal Information Fusion for Classif
 
 <img src="/images/knight_challenge.png"
      alt="Markdown Monster icon"
-     style="float: center; margin-right: 10px;" />
+     style="float: center; margin-right: 10px
+     width="42" height="42";" />
 
 <p>Abstract:<br>
 
