@@ -2,7 +2,7 @@
 title: "Conference Proceedings: KNIGHT Challenge 2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)"
 collection: talks
 type: "Conference Proceedings"
-permalink: /talks/conf
+permalink: /talks/
 date: 2022-03-29
 ---
 Conference proceedings on our paper: "Multi-modal Information Fusion for Classification of Kidney Abnormalities"
