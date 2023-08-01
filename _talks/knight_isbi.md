@@ -8,7 +8,7 @@ date: 2022-03-29
 Conference proceedings on our paper: "Multi-modal Information Fusion for Classification of Kidney Abnormalities"
 
 <img src="/images/knight_challenge.png"
-     alt="Markdown Monster icon"
+     alt="Markdown icon"
      width="42" height="42"
      style="float: center; margin-right: 10px;" />
 
