@@ -6,9 +6,9 @@ collection: publications
 excerpt: 'This work proposes a novel pipeline
 for addressing open-set supervised learning challenges in digital
 histology images.'
-date : 17-03-2023
+date : 9-12-2023
 image: 'ssl-first stage complete.jpg'
-venue: 'IEEE/ACM Transactions on Computational Biology and Bioinformatics - under review'
+venue: 'The 23rd IEEE International Conference on Bioinformatics and Bioengineering (BIBE)'
 width: '800'
 ---
 Semi-supervised learning (semi-SL) is a promising
