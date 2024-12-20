@@ -7,9 +7,9 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "en-US"
-title                    : "Varsha S"
+title                    : "Varsha Satish"
 title_separator          : "-"
-name                     : &name "Varsha S"
+name                     : &name "Varsha Satish"
 description              : &description "personal description"
 url                      : "https://varshasatish.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Varsha S"
+  name             : "Varsha Satish"
   avatar           : "bio_photo.jpg"
   bio              : "Deep Learning | Medical Image Analysis"
   location         : "Madison, United States"
