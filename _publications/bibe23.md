@@ -40,4 +40,4 @@ algorithms through various experiments.
 ### Citation
 N. C. Kurian, V. Satish, A. Patil, S. Khade and A. Sethi, "Robust Semi-Supervised Learning for Histopathology Images Through Self-Supervision Guided Out-of-Distribution Scoring," 2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering (BIBE), Dayton, OH, USA, 2023, pp. 121-128, doi: 10.1109/BIBE60311.2023.00027.
 
-[Paper Link]([https://arxiv.org/pdf/2303.09930.pdf](https://ieeexplore.ieee.org/document/10431839?source=AUTHORALERT&dld=Z21haWwuY29t))
+[Paper Link]([https://ieeexplore.ieee.org/document/10431839?source=AUTHORALERT&dld=Z21haWwuY29t])
