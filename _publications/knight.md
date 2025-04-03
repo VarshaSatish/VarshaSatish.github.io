@@ -2,7 +2,7 @@
 title: "Multi-modal Information Fusion for Classification of Kidney Abnormalities"
 collection: publications
 date: 2022-03-30
-excerpt: This paper proposes an attention-based deep learning framework that automatically analyzes renal tumors by fusing both the clinical and imaging features.
+excerpt: Developed an attention-based deep learning classifier framework that effectively integrates both clinical and imaging features to automate the analysis of renal tumors, leading to a significant 12.5% improvement in classification accuracy.
 venue: '2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)'
 image: 'knight_isbi.drawio.png'
 width: '800'
