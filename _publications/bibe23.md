@@ -38,6 +38,6 @@ comparing with popular methods and frameworks in semi-SL
 algorithms through various experiments.
 
 ### Citation
-NC Kurian, S Varsha, A Patil, S Khade, A Sethi - arXiv preprint arXiv:2303.09930, 2023
+N. C. Kurian, V. Satish, A. Patil, S. Khade and A. Sethi, "Robust Semi-Supervised Learning for Histopathology Images Through Self-Supervision Guided Out-of-Distribution Scoring," 2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering (BIBE), Dayton, OH, USA, 2023, pp. 121-128, doi: 10.1109/BIBE60311.2023.00027.
 
-[Paper Link](https://arxiv.org/pdf/2303.09930.pdf)
+[Paper Link]([https://arxiv.org/pdf/2303.09930.pdf](https://ieeexplore.ieee.org/document/10431839?source=AUTHORALERT&dld=Z21haWwuY29t))
