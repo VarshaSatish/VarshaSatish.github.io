@@ -3,9 +3,7 @@ title: "Robust Semi-Supervised Learning for
 Histopathology Images through Self-Supervision
 Guided Out-of-Distribution Scoring"
 collection: publications
-excerpt: 'This work proposes a novel pipeline
-for addressing open-set supervised learning challenges in digital
-histology images.'
+excerpt: 'Developed a novel self-supervised pipeline estimates an Out-of-Distribution score for each unlabeled data point, enabling calibrated semi-supervised learning and improving medical image analysis, with potential applications in open-set supervised learning.'
 date : 9-12-2023
 image: 'ssl-first stage complete.jpg'
 venue: 'The 23rd IEEE International Conference on Bioinformatics and Bioengineering (BIBE)'
