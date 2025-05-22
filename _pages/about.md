@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 <h1>About Me </h1> 
-<div style='text-align: justify;'>I am Varsha Satish, a graduate student in the <a href="https://engineering.wisc.edu/departments/biomedical-engineering/" style="text-decoration: none;">Department of Biomedical Engineering</a> at the University of Wisconsin-Madison. I completed my Master's in 2022 from the <a href="https://www.ee.iitb.ac.in" style="text-decoration: none;">Department of Electrical Engineering</a> at the <a href="https://www.iitb.ac.in/" style="text-decoration: none;">Indian Institute of  Technology, Bombay</a>. My  Master's thesis titled "Deep Learning Towards Robustness in Medical Images" was focused on introducing a range of novel deep learning based algorithms that automatically analyse cancerous tissue in H&E histology images. My expertise lies in developing robust supervision techniques for large scale medical image analysis. During my Master's, I was associated with MeDAL (Medical Imaging, Deep Learning, and Artificial Intelligence Lab) and worked under the supervision of <a href="https://www.ee.iitb.ac.in/~asethi/" style="text-decoration: none;">Prof. Amit Sethi</a>. Earlier, I obtained my Bachelor's degree from the Department of Electronics and Communication Engineering at <a href="https://bmsce.ac.in/home/Electronics-and-Communication-Engineering-About" style="text-decoration: none;">BMS College of Engineering, Bangalore</a>.
-<p>  </p>
+<div style='text-align: justify;'> 
+I’m Varsha, an AI/ML engineer with a strong foundation in deep learning, self-supervised representation learning, and large language models (LLMs). I hold Master’s degrees in Biomedical Engineering from the University of Wisconsin–Madison and Electrical Engineering from IIT Bombay, where I received the Best Master’s Thesis Award.
 
-<div style='text-align: justify;'>I was introduced to the field of research at <a href="https://ece.iisc.ac.in/" style="text-decoration: none;">Department of Electrical Communication Engineering</a>. After my Master's, I had a brief stint at Amazon in the Alexa NLU Department as an Applied Scientist where I worked on adopting a multi‑lingual encoder architecture for meeting latency constraints and minimising cost of NLU models. I worked at Nference as a Data Scientist to develop deep learning based solutions to solve challenges in the field of medical imaging.
-<p></p>
+My industry experience spans roles at Amazon and the healthcare AI startup nference. At Amazon, I worked as an Applied Scientist, optimizing transformer-based multilingual models for low-latency intent classification across Alexa platforms. At nference, I developed encoder-decoder and YOLOv5-based models for tissue localization in histopathology, enabling ML-powered precision medicine. During my time at UW–Madison, I applied supervised learning to MRI data for predicting treatment response in oncology.
 
-I maintain a list of my publications under the Publications tab and my full Resume is attached in the CV Tab.
+My research has been published in IEEE biomedical imaging conferences (ISBI, BIBE), focusing on contrastive learning, label noise robustness, and self-supervised learning in medical imaging. I’m proficient in Python (PyTorch, TensorFlow) and experienced in statistical modeling, computer vision, and NLP.
+
+I’m passionate about building scalable ML systems that drive real-world impact and am actively seeking opportunities to contribute to fast-paced teams focused on deploying end-to-end AI solutions.
+  
