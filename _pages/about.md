@@ -19,7 +19,7 @@ I have co-authored peer-reviewed publications in IEEE biomedical imaging confere
 <p>  </p>
   
 <section id="skills">
-  <h>Technical Skills</h3>
+  <h3>Technical Skills</h3>
   <ul>
     <li>
       <strong>Programming & Frameworks :</strong> Python, PyTorch, TensorFlow, MATLAB, LangGraph
