@@ -11,7 +11,7 @@ redirect_from:
 <p>  </p>
   
 <div style='text-align: justify;'> 
-At WRC, I am working on building a vision based transformer classification network for early diabetic retinopathy diagnosis. At UW–Madison, I applied feature engineering and supervised learning on MRI data to predict treatment response, advancing AI applications in oncology. At Nference, as Data Scientist, I built encoder-decoder and YOLOv5-based models for tissue localisation and detection in histopathology images, enabling ML-driven precision medicine. At Amazon, as Applied Scientist, I optimised transformer-based multilingual models for low-latency, scalable intent classification across Alexa platforms.
+At Wisconsin Reading Center, I am working on building a vision based transformer classification network for early diabetic retinopathy diagnosis. At UW–Madison, I applied feature engineering and supervised learning on MRI data to predict treatment response, advancing AI applications in oncology. At Nference, as Data Scientist, I built encoder-decoder and YOLOv5-based models for tissue localisation and detection in histopathology images, enabling ML-driven precision medicine. At Amazon, as Applied Scientist, I optimised transformer-based multilingual models for low-latency, scalable intent classification across Alexa platforms.
 <p>  </p>
 
 <div style='text-align: justify;'> 
