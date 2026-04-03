@@ -6,15 +6,42 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1>About Me </h1> 
-<div style='text-align: justify;'> I’m Varsha, an AI/ML engineer with a strong foundation in deep learning, self-supervised representation learning, and large language models (LLMs). I hold Master’s degrees in Biomedical Engineering from the University of Wisconsin–Madison and Electrical Engineering from IIT Bombay, where I received the Best Master’s Thesis Award.
+<h1>Hi, I’m Varsha 👋</h1> 
+<div style='text-align: justify;'> I’m an AI/ML engineer with expertise in deep learning, self-supervised learning, and large language models (LLMs). I hold Master’s degrees in Biomedical Engineering (UW–Madison) and Electrical Engineering (IIT Bombay, Best Thesis Award), and I’m passionate about building scalable AI systems that create real-world impact.
 <p>  </p>
   
-<div style='text-align: justify;'> My industry experience spans roles at Amazon and the healthcare AI startup named nference. At Amazon, I worked as an Applied Scientist, optimizing transformer-based multilingual models for low-latency intent classification across Alexa platforms. At nference, I developed encoder-decoder and YOLOv5-based models for tissue localization in histopathology, enabling ML-powered precision medicine. During my time at UW–Madison, I applied supervised learning to MRI data for predicting treatment response in oncology.
-<p>  </p>
-  
-<div style='text-align: justify;'> My research has been published in IEEE biomedical imaging conferences (ISBI, BIBE), focusing on contrastive learning, label noise robustness, and self-supervised learning in medical imaging. I’m proficient in Python (PyTorch, TensorFlow) and experienced in statistical modeling, computer vision, and NLP.
-<p>  </p>
+<section id="work">
+  <h2>What I Work On</h2>
+  <ul>
+    <li>
+      <strong>Natural Language Processing & LLMs:</strong> Optimizing transformer-based models for low-latency, high-throughput applications, including Alexa multilingual intent classification
+    </li>
+    <li>
+      <strong>Computer Vision & Healthcare AI:</strong> Developing YOLOv5 and encoder-decoder networks for histopathology and retinal imaging, enabling precision medicine and early disease detection
+    </li>
+    <li>
+      <strong>Medical Imaging & Predictive Modeling:</strong> Applying ML to MRI and DCE-MRI data for treatment response prediction and pathological complete response (pCR) detection in oncology
+    </li>
+    <li>
+      <strong>Advanced Research:</strong> Exploring self-supervised and contrastive learning, weakly supervised MIL frameworks, and VR-based AI for improved robustness and interpretability
+    </li>
+  </ul>
+</section>
 
-<div style='text-align: justify;'> I’m passionate about building scalable ML systems that drive real-world impact and am actively seeking opportunities to contribute to fast-paced teams focused on deploying end-to-end AI solutions.
+<section id="skills">
+  <h2>Technical Skills</h2>
+  <ul>
+    <li>
+      <strong>Programming & Frameworks:</strong> Python, PyTorch, TensorFlow, MATLAB, Scikit-learn
+    </li>
+    <li>
+      <strong>Core AI/ML Areas:</strong> Deep Learning, Transformers, LLMs, Self-Supervised Learning, Multiple Instance Learning, NLP, Computer Vision, Statistical Modeling, Feature Engineering
+    </li>
+    <li>
+      <strong>Domains:</strong> Healthcare AI, Precision Medicine, GenAI, Virtual Reality, Embedded Systems
+    </li>
+  </ul>
+</section>
+
+<div style='text-align: justify;'> I’m focused on translating cutting-edge AI research into scalable, real-world solutions across healthcare, GenAI, and intelligent systems, building tools that make a measurable difference in people’s lives.
 <p>  </p>
