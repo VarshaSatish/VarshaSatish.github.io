@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <h1>Hi, I’m Varsha!</h1> 
-<div style='text-align: justify;'> I’m an AI/ML engineer with expertise in deep learning, self-supervised learning, and large language models (LLMs). I hold Master’s degrees in Biomedical Engineering (UW–Madison) and Electrical Engineering (IIT Bombay, Best Thesis Award), and I’m passionate about building scalable AI systems that create real-world impact.
+<div style='text-align: justify;'> I’m an AI/ML engineer with expertise in deep learning, self-supervised learning, and large language models (LLMs). I hold Master’s degrees in Biomedical Engineering (UW–Madison) and Electrical Engineering (IIT Bombay, Best Thesis Award).
 <p>  </p>
   
 <div style='text-align: justify;'> 
