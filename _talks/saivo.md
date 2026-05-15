@@ -10,4 +10,5 @@ Conference proceedings on our abstract : "Ultra-widefield Diabetic Retinopathy P
 <p>Abstract:<br>
 Ultra-widefield (UWF) fundus imaging enables comprehensive diabetic retinopathy (DR) assessment but poses challenges for automated analysis due to the trade-off between large field of view, image resolution, and computational efficiency, often causing loss of fine lesion detail during image down-sampling. To address this, we developed a weakly supervised patch-based attention Multiple Instance Learning (MIL) framework using EfficientNet_B0 features and attention-based aggregation for ETDRS ≥47 DR prescreening. The model achieved AUROC values of 0.74 in cross-validation and 0.76 on independent testing while preserving clinically relevant lesion information through attention-guided localization.
 
-[Presentation Link](https://docs.google.com/presentation/d/1yE49MKSEFjM7BRdvAAlTacEk0fri4G6w/editusp=sharing&ouid=103649360721438111904&rtpof=true&sd=true)
+[Presentation Link]
+(https://docs.google.com/presentation/d/1yE49MKSEFjM7BRdvAAlTacEk0fri4G6w/edit?usp=sharing&ouid=103649360721438111904&rtpof=true&sd=true)
