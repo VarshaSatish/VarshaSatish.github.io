@@ -24,7 +24,7 @@ redirect_from:
 
 <hr style="border:none;border-top:1px solid #ddd;margin:1.5em 0;">
  
-<p style="font-size:1.08em;line-height:1.6;margin-left:0;">I've co-authored peer-reviewed publications at <strong>IEEE ISBI</strong> and <strong>BIBE</strong>, focused on contrastive learning, label-noise robustness, and self-supervised learning for medical imaging.</p>
+<p style="font-size:1.08em;line-height:1.6;margin-left:0;">I've co-authored peer-reviewed publications at <strong>IEEE ISBI</strong> and <strong>BIBE</strong>, focused on contrastive learning and self-supervised learning for medical imaging.</p>
  
 <h2 style="font-size:1.05em;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#555;border-bottom:2px solid #eee;padding-bottom:6px;margin-top:2em;">Technical Skills</h2>
 
