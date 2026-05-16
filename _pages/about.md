@@ -105,4 +105,4 @@ I have co-authored peer-reviewed publications in IEEE biomedical imaging confere
 <p>  </p> -->
 📌 <strong>Actively seeking Applied Science / AI-ML Engineer roles.</strong>
   <a href="mailto:varshasatish14@gmail.com" style="margin-left:6px;color:#494e52;font-weight:600;">Let's connect →</a>
-</div>
+
