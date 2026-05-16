@@ -86,7 +86,7 @@ I have co-authored peer-reviewed publications in IEEE biomedical imaging confere
     </td>
   </tr>
   <tr>
-    <td style="padding:8px 10px;vertical-align:top;font-size:1.3em;">🧠</td>
+    <td style="padding:8px 10px;vertical-align:top;font-size:1.3em;">💡</td>
     <td style="padding:8px 10px;vertical-align:top;">
       <strong>Core AI/ML Areas</strong><br>
       <span style="color:#555;font-size:1em;"> Agentic AI · LLMs · Transformers · Deep Learning · Self-Supervised Learning · Multiple Instance Learning · NLP · Computer Vision </span>
