@@ -27,11 +27,11 @@ I have co-authored peer-reviewed publications in IEEE biomedical imaging confere
  
 <h2 style="font-size:1.05em;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#555;border-bottom:2px solid #eee;padding-bottom:6px;margin-top:2em;">What I've Built</h2>
  
-<ul style="font-size:1.08em;line-height:1.6;list-style:none;padding-left:0;">
-  <li style="margin:0 0 14px 0;"><span style="font-size:1.2em;">🔬</span> <strong>Wisconsin Reading Center</strong><br><span style="color:#555;font-size:1.08em;line-height:1.6;">Vision transformer network for early diabetic retinopathy detection</span></li>
-  <li style="margin:0 0 14px 0;"><span style="font-size:1.2em;">🧠</span> <strong>UW–Madison</strong><br><span style="color:#555;font-size:1.08em;line-height:1.6;">Supervised ML on MRI data to predict cancer treatment response</span></li>
-  <li style="margin:0 0 14px 0;"><span style="font-size:1.2em;">🧬</span> <strong>Nference</strong><br><span style="color:#555;font-size:1.08em;line-height:1.6;">Encoder-decoder &amp; YOLOv5 models for histopathology tissue localization and detection</span></li>
-  <li style="margin:0 0 14px 0;"><span style="font-size:1.2em;">⚡</span> <strong>Amazon Alexa</strong><br><span style="color:#555;font-size:1.08em;line-height:1.6;">Optimized multilingual transformer models for low-latency intent classification</span></li>
+<ul style="font-size:1.08em;line-height:1.6;list-style:disc;padding-left:0;">
+  <li style="margin:0 0 14px 0;"><span style="font-size:1.1em;">🔬</span> <strong>Wisconsin Reading Center</strong><br><span style="color:#555;font-size:1.06em;line-height:1.6;">Vision transformer network for early diabetic retinopathy detection</span></li>
+  <li style="margin:0 0 14px 0;"><span style="font-size:1.1em;">🧠</span> <strong>UW–Madison</strong><br><span style="color:#555;font-size:1.06em;line-height:1.6;">Supervised ML on MRI data to predict cancer treatment response</span></li>
+  <li style="margin:0 0 14px 0;"><span style="font-size:1.1em;">🧬</span> <strong>Nference</strong><br><span style="color:#555;font-size:1.06em;line-height:1.6;">Encoder-decoder &amp; YOLOv5 models for histopathology tissue localization and detection</span></li>
+  <li style="margin:0 0 14px 0;"><span style="font-size:1.1em;">⚡</span> <strong>Amazon Alexa</strong><br><span style="color:#555;font-size:1.06em;line-height:1.6;">Optimized multilingual transformer models for low-latency intent classification</span></li>
 </ul>
 
 <hr style="border:none;border-top:1px solid #ddd;margin:1.5em 0;">
@@ -55,10 +55,10 @@ I have co-authored peer-reviewed publications in IEEE biomedical imaging confere
 
 <h2 style="font-size:1.05em;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#555;border-bottom:2px solid #eee;padding-bottom:6px;margin-top:2em;">Technical Skills</h2>
 
-<ul style="font-size:1.08em;line-height:1.6;list-style:none;padding-left:0;">
-  <li style="margin:0 0 14px 0;"><span style="font-size:1.2em;">🛠️</span> <strong>Programming &amp; Frameworks</strong><br><span style="color:#555;font-size:1.08em;line-height:1.6;">Python · PyTorch · TensorFlow · MATLAB · LangGraph</span></li>
-  <li style="margin:0 0 14px 0;"><span style="font-size:1.2em;">💡</span> <strong>Core AI/ML Areas</strong><br><span style="color:#555;font-size:1.08em;line-height:1.6;"> Agentic AI · LLMs · Transformers · Deep Learning · Self-Supervised Learning · Multiple Instance Learning · NLP · Computer Vision · Statistical Modeling · Feature Engineering</span></li>
-  <li style="margin:0 0 14px 0;"><span style="font-size:1.2em;">🏥</span> <strong>Domains</strong><br><span style="color:#555;font-size:1.08em;line-height:1.6;">Healthcare AI · Precision Medicine · Medical Imaging</span></li>
+<ul style="font-size:1.08em;line-height:1.6;list-style:disc;padding-left:0;">
+  <li style="margin:0 0 14px 0;"><span style="font-size:1.1em;">🛠️</span> <strong>Programming &amp; Frameworks</strong><br><span style="color:#555;font-size:1.06em;line-height:1.6;">Python · PyTorch · TensorFlow · MATLAB · LangGraph</span></li>
+  <li style="margin:0 0 14px 0;"><span style="font-size:1.1em;">💡</span> <strong>Core AI/ML Areas</strong><br><span style="color:#555;font-size:1.06em;line-height:1.6;"> Agentic AI · LLMs · Transformers · Deep Learning · Self-Supervised Learning · Multiple Instance Learning · NLP · Computer Vision · Statistical Modeling · Feature Engineering</span></li>
+  <li style="margin:0 0 14px 0;"><span style="font-size:1.1em;">🏥</span> <strong>Domains</strong><br><span style="color:#555;font-size:1.06em;line-height:1.6;">Healthcare AI · Precision Medicine · Medical Imaging</span></li>
 </ul>
 
 <hr style="border:none;border-top:1px solid #ddd;margin:1.5em 0;">
