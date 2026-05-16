@@ -27,33 +27,33 @@ I have co-authored peer-reviewed publications in IEEE biomedical imaging confere
  
 <h2 style="font-size:1.05em;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#555;border-bottom:2px solid #eee;padding-bottom:6px;margin-top:2em;">What I've Built</h2>
  
-<table>
+<table style="font-size:1.08em;line-height:1.6;">
   <tr>
     <td style="font-size:1.4em;padding:8px 10px;vertical-align:top;width:2em;">🔬</td>
     <td style="padding:8px 10px;vertical-align:top;">
       <strong>Wisconsin Reading Center</strong><br>
-      <span style="color:#555;font-size:0.95em;">Vision transformer network for early diabetic retinopathy detection</span>
+      <span style="color:#555;font-size:1em;">Vision transformer network for early diabetic retinopathy detection</span>
     </td>
   </tr>
   <tr>
     <td style="font-size:1.4em;padding:8px 10px;vertical-align:top;">🧠</td>
     <td style="padding:8px 10px;vertical-align:top;">
       <strong>UW–Madison</strong><br>
-      <span style="color:#555;font-size:0.95em;">Supervised ML on MRI data to predict cancer treatment response</span>
+      <span style="color:#555;font-size:1em;">Supervised ML on MRI data to predict cancer treatment response</span>
     </td>
   </tr>
   <tr>
     <td style="font-size:1.4em;padding:8px 10px;vertical-align:top;">🧬</td>
     <td style="padding:8px 10px;vertical-align:top;">
       <strong>Nference</strong><br>
-      <span style="color:#555;font-size:0.95em;">Encoder-decoder &amp; YOLOv5 models for histopathology tissue detection</span>
+      <span style="color:#555;font-size:1em;">Encoder-decoder &amp; YOLOv5 models for histopathology tissue detection</span>
     </td>
   </tr>
   <tr>
     <td style="font-size:1.4em;padding:8px 10px;vertical-align:top;">⚡</td>
     <td style="padding:8px 10px;vertical-align:top;">
       <strong>Amazon Alexa</strong><br>
-      <span style="color:#555;font-size:0.95em;">Optimized multilingual transformer models for low-latency intent classification</span>
+      <span style="color:#555;font-size:1em;">Optimized multilingual transformer models for low-latency intent classification</span>
     </td>
   </tr>
 </table>
@@ -77,32 +77,31 @@ I have co-authored peer-reviewed publications in IEEE biomedical imaging confere
 
 <h2 style="font-size:1.05em;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#555;border-bottom:2px solid #eee;padding-bottom:6px;margin-top:2em;">Technical Skills</h2>
 
-<table>
+<table style="font-size:1.08em;line-height:1.6;">
   <tr>
     <td style="padding:8px 10px;vertical-align:top;width:2em;font-size:1.3em;">🛠️</td>
     <td style="padding:8px 10px;vertical-align:top;">
       <strong>Programming &amp; Frameworks</strong><br>
-      <span style="color:#555;font-size:0.95em;">Python · PyTorch · TensorFlow · MATLAB · LangGraph</span>
+      <span style="color:#555;font-size:1em;">Python · PyTorch · TensorFlow · MATLAB · LangGraph</span>
     </td>
   </tr>
   <tr>
     <td style="padding:8px 10px;vertical-align:top;font-size:1.3em;">🧠</td>
     <td style="padding:8px 10px;vertical-align:top;">
       <strong>Core AI/ML Areas</strong><br>
-      <span style="color:#555;font-size:0.95em;"> Agentic AI · LLMs · Transformers · Deep Learning · Self-Supervised Learning · Multiple Instance Learning · NLP · Computer Vision </span>
+      <span style="color:#555;font-size:1em;"> Agentic AI · LLMs · Transformers · Deep Learning · Self-Supervised Learning · Multiple Instance Learning · NLP · Computer Vision </span>
     </td>
   </tr>
   <tr>
     <td style="padding:8px 10px;vertical-align:top;font-size:1.3em;">🏥</td>
     <td style="padding:8px 10px;vertical-align:top;">
       <strong>Domains</strong><br>
-      <span style="color:#555;font-size:0.95em;">Healthcare AI · Precision Medicine · Medical Image Analysis</span>
+      <span style="color:#555;font-size:1em;">Healthcare AI · Precision Medicine · Medical Image Analysis</span>
     </td>
   </tr>
 </table>
 
-<!-- <div style='text-align: justify;'> I’m passionate about building scalable ML systems that drive real-world impact and am actively seeking Applied Science / AIML Engineer roles to contribute to fast-paced teams focused on deploying end-to-end AI solutions.
+<!-- <div style='text-align: justify;'> I’m passionate about building scalable ML systems that drive real-world impact and am actively seeking Applied Science / AIML Engineer roles to contribute my expertise in AI and healthcare innovation.
 <p>  </p> -->
 📌 <strong>Actively seeking Applied Science / AI-ML Engineer roles.</strong>
   <a href="mailto:varshasatish14@gmail.com" style="margin-left:6px;color:#494e52;font-weight:600;">Let's connect →</a>
-
