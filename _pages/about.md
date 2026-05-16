@@ -16,10 +16,11 @@ redirect_from:
 <h2 style="font-size:1.05em;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#555;border-bottom:2px solid #eee;padding-bottom:6px;margin-top:2em;">What I've Built</h2>
  
 <ul style="font-size:1.08em;line-height:1.6;list-style-position:outside;padding-left:2em;margin-left:0;">
-  <li style="margin:0 0 14px 0;"><span style="font-size:1em;">🔬</span> <strong>Wisconsin Reading Center</strong><br><span style="color:#555;font-size:0.95em;line-height:1.4;">Built a vision-based transformer classification network for early diabetic retinopathy diagnosis from retinal imaging data.</span></li>
-  <li style="margin:0 0 14px 0;"><span style="font-size:1em;">🧠</span> <strong>UW–Madison</strong><br><span style="color:#555;font-size:0.95em;line-height:1.4;">Applied supervised machine learning on MRI data to predict cognitive performance and support neuroscience research.</span></li>
-  <li style="margin:0 0 14px 0;"><span style="font-size:1em;">🧬</span> <strong>Nference</strong><br><span style="color:#555;font-size:0.95em;line-height:1.4;">Developed encoder-decoder and YOLOv5 models for medical document understanding and clinical AI workflows.</span></li>
-  <li style="margin:0 0 14px 0;"><span style="font-size:1em;">⚡</span> <strong>Amazon Alexa</strong><br><span style="color:#555;font-size:0.95em;line-height:1.4;">Optimized multilingual transformer-based systems to improve large-scale spoken language understanding.</span></li>
+  <li style="margin:0 0 14px 0;"><span style="font-size:1em;">🔬</span> <strong>Wisconsin Reading Center</strong><br><span style="color:#555;font-size:0.95em;line-height:1.4;">Built a vision-based transformer classification network for early diabetic retinopathy diagnosis.</span></li>
+  <li style="margin:0 0 14px 0;"><span style="font-size:1em;">🧠</span> <strong>UW–Madison</strong><br><span style="color:#555;font-size:0.95em;line-height:1.4;">Applied supervised machine learning on DCE-MRI data to predict treatment response in breast cancer patients.
+ </span></li>
+  <li style="margin:0 0 14px 0;"><span style="font-size:1em;">🧬</span> <strong>Nference</strong><br><span style="color:#555;font-size:0.95em;line-height:1.4;">Developed encoder-decoder and YOLOv5 models for clinical AI workflows.</span></li>
+  <li style="margin:0 0 14px 0;"><span style="font-size:1em;">⚡</span> <strong>Amazon Alexa</strong><br><span style="color:#555;font-size:0.95em;line-height:1.4;">Optimized multilingual transformer-based systems to improve large-scale language understanding.</span></li>
 </ul>
 
 <hr style="border:none;border-top:1px solid #ddd;margin:1.5em 0;">
@@ -30,11 +31,11 @@ redirect_from:
 
 <ul style="font-size:1.08em;line-height:1.6;list-style-position:outside;padding-left:2em;margin-left:0;">
   <li style="margin:0 0 14px 0;"><span style="font-size:1em;">🛠️</span> <strong>Programming &amp; Frameworks</strong><br><span style="color:#555;font-size:0.95em;line-height:1.4;">Python · PyTorch · TensorFlow · MATLAB · LangGraph</span></li>
-  <li style="margin:0 0 14px 0;"><span style="font-size:1em;">💡</span> <strong>Core AI/ML Areas</strong><br><span style="color:#555;font-size:0.95em;line-height:1.4;">Agentic AI · LLMs · Transformers · Deep Learning · Self-Supervised Learning · NLP · Computer Vision · Statistical Modeling · Feature Engineering</span></li>
-  <li style="margin:0 0 14px 0;"><span style="font-size:1em;">🏥</span> <strong>Domains</strong><br><span style="color:#555;font-size:0.95em;line-height:1.4;">Healthcare AI · Precision Medicine · Generative AI</span></li>
+  <li style="margin:0 0 14px 0;"><span style="font-size:1em;">💡</span> <strong>Core AI/ML Areas</strong><br><span style="color:#555;font-size:0.95em;line-height:1.4;">Agentic AI · LLMs · Transformers · Deep Learning · Self-Supervised Learning · NLP · Computer Vision</span></li>
+  <li style="margin:0 0 14px 0;"><span style="font-size:1em;">🏥</span> <strong>Domains</strong><br><span style="color:#555;font-size:0.95em;line-height:1.4;">Healthcare AI · Precision Medicine · Medical Image Analysis</span></li>
 </ul>
 
 <hr style="border:none;border-top:1px solid #ddd;margin:1.5em 0;">
 
-<p style="font-size:1.08em;line-height:1.6;">📌 <strong>Actively seeking Applied Science / AI-ML Engineer roles.</strong>
+<p style="font-size:1.1em;line-height:1.6;">📌 <strong>Actively seeking Applied Science / AI-ML Engineer roles.</strong>
   <a href="mailto:varshasatish14@gmail.com" style="margin-left:6px;color:#494e52;font-weight:600;">Let's connect →</a></p>
