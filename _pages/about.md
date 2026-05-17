@@ -11,7 +11,7 @@ redirect_from:
  
 <p style="font-size:1.0em; line-height:1.4;">I'm an AI/ML engineer specializing in <strong>deep learning</strong>, <strong>self-supervised learning</strong>, and <strong>large language models</strong>.</p>
  
-<p style="font-size:1.0em; line-height:1.4;">I hold Master's degrees in <strong>Biomedical Engineering</strong> (UW–Madison) and <strong>Electrical Engineering</strong> (IIT Bombay, 🏅 Best Thesis Award), with experience spanning healthcare AI, computer vision, NLP, and production-scale machine learning.</p>
+<p style="font-size:1.0em; line-height:1.4;">I hold Master's degrees in <strong>Biomedical Engineering</strong> (UW–Madison) and <strong>Electrical Engineering</strong> (IIT Bombay, Best Thesis Award), with experience spanning healthcare AI, computer vision, NLP, and production-scale machine learning.</p>
  
 <h2 style="font-size:1.05em;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#555;border-bottom:2px solid #eee;padding-bottom:6px;margin-top:2em;">What I've Built</h2>
  
@@ -36,5 +36,5 @@ redirect_from:
 
 <hr style="border:none;border-top:1px solid #ddd;margin:1em 0;">
 
-<p style="font-size:1.1em; line-height:1.2;">📌 <strong>Actively seeking Applied Science / AI-ML Engineer roles.</strong>
+<p style="font-size:1.1em; line-height:1.2;"><strong>Actively seeking Applied Science / AI-ML Engineer roles.</strong>
   <a href="mailto:varshasatish14@gmail.com" style="margin-left:6px;color:#494e52;font-weight:600;">Let's connect →</a></p>
